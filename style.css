@@ -1,0 +1,33 @@
+h1{
+    width:80%;
+    text-align: center;
+    background-color:navy;
+    margin-left: 150px;
+    color: aliceblue;
+    margin-bottom: 0%;
+    margin-top:100px;
+   
+    
+}
+#textbox{
+    margin-left: 150px;
+    width:79.45%;
+    height:400px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color:aliceblue ;
+    border:2px solid navy;
+    margin-left: 150px;
+   
+}
+
+#last{
+    text-align: center;
+    font-size:32px;
+    font-weight: bold;
+    background-color: navy;
+    color: aliceblue;
+    width:80%;
+    margin-left: 150px;
+    margin-top: 0%;
+}
